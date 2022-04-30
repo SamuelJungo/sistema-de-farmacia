@@ -1,0 +1,45 @@
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\bin\Debug\MySql.Data.dll
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\bin\Debug\MySql.Web.dll
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\bin\Debug\MySql.Data.xml
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\bin\Debug\MySql.Web.xml
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.cadastrar_produtos.resources
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.cadastrar_usuario.resources
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Categoria.resources
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Form1.resources
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.index.resources
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Vender.resources
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.ver.resources
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.vercategoria.resources
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.ver_usuario.resources
+C:\Users\Filis manuel\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\bin\Debug\MySql.Data.xml
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\bin\Debug\MySql.Web.xml
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.cadastrar_produtos.resources
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.cadastrar_usuario.resources
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.Categoria.resources
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.Form1.resources
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.index.resources
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.Vender.resources
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.ver.resources
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.vercategoria.resources
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.ver_usuario.resources
+C:\Users\Eng Sam\Videos\Dev c++\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
